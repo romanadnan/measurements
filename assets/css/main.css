@@ -1,0 +1,189 @@
+/**********************************
+           Common Style Start
+**********************************/
+body {
+    font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+h1 {}
+
+h2 {}
+
+h3 {}
+
+.site-container {
+    width: 1140px;
+    margin: auto;
+}
+
+.button {}
+
+.button-success {}
+
+.button-danger {}
+
+
+
+/**********************************
+           Common Style End
+**********************************/
+
+/**********************************
+           Header Style Start
+**********************************/
+
+.header {
+    background-color: #32a037;
+}
+
+.header-area {
+    display: flex;
+    align-items: center;
+}
+
+.header-area ul {
+    display: flex;
+    padding: 0;
+}
+
+.header-area ul li {
+    margin: auto;
+}
+
+.header-area ul li a {
+    color: #ffffff;
+    padding: 0 10px;
+}
+
+.header-area__brand-area {
+    width: 20%;
+}
+
+.header-area__navbar {
+    width: 60%;
+    
+}
+.header-area__navbar ul{
+   
+}
+
+.header-area__search-area {
+    width: 20%;
+    /* display: flex;
+    justify-content: right;
+    align-items: center; */
+}
+
+.header-area__search-area--field i {
+    float: right;
+    
+  
+}
+
+/**********************************
+           Header Style End
+***********************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+        Contant Area Style Start
+***********************************/
+
+.section {
+    background-color: antiquewhite;
+}
+
+
+
+/**********************************
+        Contant Area Style End
+***********************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+           Footer Style Start
+**********************************/
+
+.footer {
+    background-color: #32a037;
+    padding: 30px 0;
+}
+
+.footer-top {
+    display: flex;
+    color: #ffffff;
+}
+
+.footer-top__col1 {
+    width: 30%;
+}
+.footer-top__col2 {
+    width: 20%;
+    margin-left: 80px;
+}
+.footer-top__col2 ul {
+    padding: 0;
+}
+.footer-top__col3 {
+    width: 20%;
+}
+.footer-top__col3 ul {
+    padding: 0;
+}
+.footer-top__col4 {
+    width: 30%;
+}
+.footer-bottom {
+    align-items: center;
+}
+.footer-bottom__text {
+    text-align: center;
+    margin: 0;
+}
+.footer-bottom__text a {
+    color: #ffffff;
+}
+
+/**********************************
+           Footer Style End
+**********************************/
